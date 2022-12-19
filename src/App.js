@@ -11,8 +11,8 @@ import {
 } from "react-bootstrap";
 import { useState, useEffect } from "react";
 
-const CLIENT_ID = "52205084e5b743619d6a314742d2ed5f";
-const CLIENT_SECRET = "344968dd5f9849f6a9b2b3a8afbcf836";
+const CLIENT_ID = "";
+const CLIENT_SECRET = "";
 
 function App() {
   const [searchInput, setSearchInput] = useState("");
